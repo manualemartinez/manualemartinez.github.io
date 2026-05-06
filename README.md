@@ -11,8 +11,7 @@ Aqui estan todos mis [proyectos](https://github.com/manualemartinez/Portfolio-Gu
 
 ## 🛠️ Tools / Herramientas
 * Languages / Lenguajes: Python, R
-* GIS Software / Software SIG: ArcGIS Pro
-* Data Visualization / Visualizacion de Datos: Stata, Excel
+* Data Visualization / Visualizacion de Datos: Stata, Excel, ArcGIS Pro
 
 ## 📝 Research Topics / Temas de Investigación
 * Gentrification in the Costa Rican South Caribbean / Gentrificación en el Caribe Sur costarricense
