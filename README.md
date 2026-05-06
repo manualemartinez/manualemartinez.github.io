@@ -21,4 +21,4 @@ Aqui estan todos mis [proyectos](https://github.com/manualemartinez/Portfolio-Gu
 * Issues of the Banana Industry in the United States and Colombia. Podcast episode on [Spotify](https://open.spotify.com/episode/2Oegpc3WqkObwZff3MzUOq?si=GTWsC8WzSkmkYX7rx43BkA) / Problemática de la Industria Bananera en Colombia y Estados Unidos. Podcast (en Inglés) disponible en [Spotify](https://open.spotify.com/episode/2Oegpc3WqkObwZff3MzUOq?si=GTWsC8WzSkmkYX7rx43BkA)
 
 ## 👋🏼 Linkedin
-* [Linkedin](linkedin.com/in/manualemartinez)
+* [Linkedin](https://linkedin.com/in/manualemartinez)
