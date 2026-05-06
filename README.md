@@ -1,6 +1,6 @@
 <!-- <img width="1584" height="396" alt="Marketing Manager" src="https://github.com/user-attachments/assets/3744dc92-da48-47c4-a3b1-7eed49be7b2a" /> -->
 
-Hello! I am Manuel, a recently graduated student at the University of Michigan-Ann Arbor, interested in development economics and data analysis. I have expertise in institutional reform, affordability & gentrification, and data visualization.
+Hello! I am Manuel, a recently graduated student from the University of Michigan-Ann Arbor, interested in development economics and data analysis. I have expertise in institutional reform, affordability & gentrification, and data visualization.
 
 Hola! soy Manuel, estudiante recien graduado de la Universidad de Michigan-Ann Arbor. Estoy interesado en usar análisis estadístico para apoyar iniciativas de desarrollo económico. Tengo experiencia en reformas institucionales, costo de vida & gentrificación, y visualización de datos. 
 
